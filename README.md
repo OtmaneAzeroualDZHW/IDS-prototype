@@ -1,5 +1,14 @@
 # Prototype of Apache Spark and MLlib based intrusion detection system from A to Z
-
-
-
 The source code (sourcecode.scala) can be used directly in the Spark Shell or a notebook like "Zeppelin". In order to be able to use the source code in production, it should be encapsulated in a Scala object (with main method) and executed on the Spark cluster via "spark - submit".
+
+
+
+
+
+People, machines, production plants, business processes, products and services are constantly generating data. In order to optimize the use of resources and business processes, this data is brought together in real time and analyzed efficiently. The data are used to control and monitor business-critical processes, they control the behavior of vehicles or safety-critical systems. Targeted manipulation of this data could therefore have devastating consequences. The classic security requirements are that data and transaction confidentiality must be guaranteed, that mechanisms are required to clearly check the identity of people and objects, and that procedures are required to protect data, but also products and systems, from manipulation. Ensuring a data protection-preserving
+Processing of data is also a central, both societal and economic-political task.
+In addition to value-adding analyzes, big data technologies can also be used for safety-relevant calculations. Due to this fact, our goal is to develop a prototype to improve the security of internal IT systems using big data analysis methods. The main focus of the prototype is on the systematic detection of threats, attacks and intrusions in data through machine learning with the help of big data technologies. Specifically, the open source big data analysis framework Apache Spark is used to develop an intrusion detection system (IDS) based on it. In addition to complex big data analysis methods, Spark also provides libraries for machine learning: The Spark Machine Learning Library, or MLlib for short. The system to be developed should be able to determine from a set of data which parts of the data set are to be classified as harmless or regular and which are to be classified as conspicuous or irregular. In order to realize this, the system must be conveyed in a form which data is ordinary.
+The developed Big Data Framework Apache Spark offers extensive possibilities for the analysis of massive amounts of data. Without further adjustments (out-of-the-box), Spark is able to distribute the calculations to (theoretically) any number of machines in a fault-tolerant manner. The outstanding flexibility and execution speed of the framework thus provides a solid basis for a large number of big data analyzes. As proven in our study, pattern-based analyzes through unsupervised machine learning to improve IT security are also possible with the help of the MLlib component. However, the use of a big data system to detect security-critical anomalies does not have to be carried out by installing and configuring the solution once, but rather a process that has to be monitored and optimized at all times.
+
+Rather, the following paper can be found on the subject:
+Azeroual, O .; Nikiforova, A. (2022). Apache Spark and MLlib based intrusion detection system or how the big data technologies can secure the data. Information MDPI (under review). 
