@@ -1,2 +1,2 @@
-# Apache Spark and MLlib-based intrusion detection system prototype 
+# Prototype of Apache Spark and MLlib based intrusion detection system from A to Z
 
