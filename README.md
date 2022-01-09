@@ -11,4 +11,5 @@ In addition to value-adding analyzes, big data technologies can also be used for
 The developed Big Data Framework Apache Spark offers extensive possibilities for the analysis of massive amounts of data. Without further adjustments (out-of-the-box), Spark is able to distribute the calculations to (theoretically) any number of machines in a fault-tolerant manner. The outstanding flexibility and execution speed of the framework thus provides a solid basis for a large number of big data analyzes. As proven in our study, pattern-based analyzes through unsupervised machine learning to improve IT security are also possible with the help of the MLlib component. However, the use of a big data system to detect security-critical anomalies does not have to be carried out by installing and configuring the solution once, but rather a process that has to be monitored and optimized at all times.
 
 Rather, the following paper can be found on the subject:
+
 Azeroual, O .; Nikiforova, A. (2022). Apache Spark and MLlib based intrusion detection system or how the big data technologies can secure the data. Information MDPI (under review). 
