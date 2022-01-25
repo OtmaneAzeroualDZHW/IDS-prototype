@@ -12,4 +12,4 @@ The developed Big Data Framework Apache Spark offers extensive possibilities for
 
 Rather, the following paper can be found on the subject:
 
-Azeroual, O .; Nikiforova, A. (2022). Apache Spark and MLlib based intrusion detection system or how the big data technologies can secure the data. Information MDPI (under review). 
+Azeroual O, Nikiforova A. Apache Spark and MLlib-Based Intrusion Detection System or How the Big Data Technologies Can Secure the Data. Information. 2022; 13(2):58. https://doi.org/10.3390/info13020058 
